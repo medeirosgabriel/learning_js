@@ -1,1 +1,2 @@
-# Learning JS, HTML & CSS
+# Learning JS
+## Platform: Udemy
