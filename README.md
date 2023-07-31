@@ -1,2 +1,1 @@
 # Learning JS
-## Platform: Udemy
